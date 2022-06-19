@@ -7,7 +7,8 @@
   - Python (4y)
   - JavaScript (1y)
 
-- Intrest in Game Hacking, Reverse Engineering, Machine Learning, Graphic Engines and 3d Rendering
+- Intrest in Game Hacking, Cloud Computing, Reverse Engineering, Machine Learning and 3d Rendering
+- Web-dev is lame
 
 ## Sidenotes
-I like Anime/Manga, Golf, Sailing, playing the piano/violin and reading. Also im a huge movie watcher and addict when it comes to Star Wars
+Fuck closed source
