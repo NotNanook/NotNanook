@@ -11,4 +11,4 @@
 - Web-dev is lame
 
 ## Sidenotes
-Fuck closed source
+Fuck closed source and the Sequels
