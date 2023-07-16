@@ -9,6 +9,3 @@
 
 - Intrest in Game Hacking, Cloud Computing, Reverse Engineering, Machine Learning and 3d Rendering
 - Web-dev is lame
-
-## Sidenotes
-Fuck closed source and the Sequels
