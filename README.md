@@ -7,4 +7,4 @@
   - Python (4y)
   - JavaScript (1y)
 
-- Interest in Game Hacking, Cloud Computing, Reverse Engineering, Machine Learning and 3d Rendering
+- Interest in Game Hacking, Reverse Engineering, Machine Learning and 3d Rendering
