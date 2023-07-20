@@ -9,3 +9,5 @@
 
 - Interest in Game Hacking, Cloud Computing, Reverse Engineering, Machine Learning and 3d Rendering
 - Web-dev is lame
+<br>
+![snake gif](https://github.com/NotNanook/NotNanook/blob/main/snake.svg)
