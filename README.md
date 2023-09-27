@@ -1,6 +1,6 @@
 # About me
 - Experience in Low-Level languages
-  - C/C++ (1-2y)
+  - C/C++ (2y)
   - Basic ASM
 - Experience in High-Level languages
   - Java (2y)
